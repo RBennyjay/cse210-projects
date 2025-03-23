@@ -1,4 +1,23 @@
+// Author: Ebenezer John
+// W03 Project: Scripture Memorizer Program
+
 // Program.cs
+// Showing Creativity and Exceeding Requirements:
+
+// Welcome Message – Greets the user when they start the app.
+
+// Multiple Scriptures Library – Picks a random scripture from a list for memorization.
+
+// Adaptive Hiding – The user chooses how many words to hide, and more words are hidden progressively as they practice.
+
+// Hint System – Users can request a hint to reveal a word if they get stuck.
+
+// Replay Option – The user has the option to replay the game.
+
+// Quit Message – Displays a farewell message when the user exits the app.
+
+
+
 using System;
 using System.Collections.Generic;
 
