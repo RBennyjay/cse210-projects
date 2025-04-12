@@ -1,0 +1,4 @@
+250
+SimpleGoal|wake up by 6.00 am|sleeping habit|50|True
+EternalGoal|read scripture daily|gospel learning|100
+ChecklistGoal|Daily physical exercise|Fitness|35|100|10|0
